@@ -1,3 +1,5 @@
+“This repository is a structured technical companion to the canonical Zenodo publication and does not supersede the DOI record.”
+
 ## Canonical Technical Foundations
 
 The core scientific claims of this project are established in the
