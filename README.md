@@ -1,2 +1,10 @@
-# stability-driven-agi
-Stability-driven architectures for artificial general intelligence, grounded in control theory, plasma physics, and phase-locked dynamical systems. Canonical reference: Zenodo DOI 10.5281/zenodo.18275363
+## Canonical Technical Foundations
+
+The core scientific claims of this project are established in the
+Keystone Papers:
+
+- Phase-Locked Suppression of Turbulent Transport (2026)
+- A Formal Isomorphism Between Plasma Turbulence and Cognitive State Stability
+
+All AGI architecture, control theory, and system design documents
+derive from these results.
