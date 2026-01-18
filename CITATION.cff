@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Stability-Driven AGI"
+message: "If you use this work, please cite the canonical Zenodo archive."
+authors:
+  - name: "OLIVIUS PRIME"
+    affiliation: "Independent Research"
+  - name: "INTELLIGINEER"
+    affiliation: "Independent Research"
+doi: 10.5281/zenodo.18275363
+license: CC-BY-4.0
