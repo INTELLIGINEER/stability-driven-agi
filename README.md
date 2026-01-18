@@ -2,7 +2,6 @@
 
 ## Canonical Technical Foundations
 ---
-
 ## Repository Structure
 
 This repository is organized to clearly separate **canonical scientific results** from **derivative architecture and system design**.
